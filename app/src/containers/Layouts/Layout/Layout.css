@@ -1,0 +1,7 @@
+.ant-popover-placement-topRight{
+    position:fixed!important;
+    right: 20px!important;
+    bottom: 40px!important;
+    top: auto!important;
+    left: auto!important
+}

@@ -1,0 +1,9 @@
+PATCH  https://ovid.condigital.cloud:3000/api/good-issue/convert-issued-by-to-id?secret=Don Knotts
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwibmFtZSI6IkFiZWwgR2ViZXJlYW5hbnlhIiwiZW1haWwiOiJhYmVsZ2VicmVhbmFueWFAZ21haWwuY29tIiwicG9zaXRpb24iOiJNYW5hZ2VyIiwiaXNfc3VwZXJfdXNlciI6dHJ1ZSwidXNlcl9yb2xlIjoiRnVsbCBBY2Nlc3MiLCJpYXQiOjE3MDg5NDE1NjR9.AYUxmZaUL5RTgrdWSe-VySGk73-81sYzoMUrkv5sU_c
+###
+
+PATCH  http://localhost:4000/api/good-return/convert-received-by-to-id?secret=Don Knotts
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwibmFtZSI6IkFiZWwgR2ViZXJlYW5hbnlhIiwiZW1haWwiOiJhYmVsZ2VicmVhbmFueWFAZ21haWwuY29tIiwicG9zaXRpb24iOiJNYW5hZ2VyIiwiaXNfc3VwZXJfdXNlciI6dHJ1ZSwidXNlcl9yb2xlIjoiRnVsbCBBY2Nlc3MiLCJpYXQiOjE3MDg5NDE1NjR9.AYUxmZaUL5RTgrdWSe-VySGk73-81sYzoMUrkv5sU_c
+###

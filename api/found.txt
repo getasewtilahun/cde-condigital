@@ -1,0 +1,790 @@
+Aggregate 02
+Black Wire ø1.5
+Black Wire ø2.5
+Bonda - Steel
+Cement OPC
+Cement PPC
+Comporsato
+Corrugate Iron Sheet-Colore-28
+Composit floor(Sample)
+Chenlink(Ater Shibo)
+Concrite Pole 12M*500D
+Door hing
+Door Lock - PAD
+Door Lock - Stricker
+Electrode 2.5
+Electrode 4 mm
+Galvanized Sheet  - G-28
+HCB 15*20*40
+HCB 20*20*40
+Leads
+Mesh wire
+Nails ø8
+Nails ø9
+Nails ø10
+Nails ø12
+Nails - Roofing
+Nails - Used
+Perline 7*5
+Pumice(Comiche)
+Postish
+Reinforcement Bar ø 08
+Reinforcement Bar ø 10
+Reinforcement Bar ø 12
+Reinforcement Bar ø 14
+Reinforcement Bar ø 16
+Reinforcement Bar ø 24
+Selected Material
+Silcon
+Transparent Silcone
+Sheet Metal
+Sheet Metal 2mm
+Black Silcone
+Timber Australi, 0.30X4X2.5 cm
+Timber Local 1.20*0.3m*0.2m
+ACC-95mm2
+Board Assembly(09686) with bre
+Board Assembly(09687) with bre
+Board Assembly(09688) with bre
+Board Assembly(09689) with bre
+Board Assembly(09681) with bre
+Board Assembly(09682) with bre
+Board Assembly(09684) with bre
+Board Assembly(09690) with bre
+U-Bolt With Nut 4-Washers Same
+Bolt & Nut 1/2 inch 45cm
+Ball Eye 16mm Bolt Vopato 3055
+Long Bolt Galvanized 5/8"40cm
+Board Assembly13597/MDB-2/1GF
+Board Assembly13590/MDB-2/1GF
+Board Assembly13591/MDB-2/GF
+Board Assembly13599/SDBApp1&GF
+Board Assembly13592/SDBApp2&GF
+Board Assembly13593/SDB-APP3/G
+Board Assembl13580/MSB-1,2,3
+Board Assembl13581/SDB-Pump
+Board Assembl13582/SDB-Lift
+Board Assembly13584/MDB-3BF
+Board Assembl13585/MDB-2BF
+Board Assembl13588/MDB-1&3/1BF
+Board Assembly13601/SDB-1/11F
+Board Assembly13598/SDB-Coriid
+Board Ass13595/SDB-APP2/1F-10F
+Board Ass13594/SDB-APP1/1F-10F
+Cable  3*1.5
+Cable  3*4
+Cable  3*6
+Cable  3*10
+Cable  5*10
+Conduit Rigged ø16
+Conduit Rigged ø25
+Conduit Rigged ø32
+Connector ø7
+Connector ø9
+Connector RJ-45
+Clamp Ø19
+Celling light 30W
+Ceiling Light 31W
+Ceiling Light 18W
+Ceiling Light Led 65W
+Clamp Metal  Ø16 (1/2)
+Cross Arm Various
+Clamp Strain 16MM Socket
+Collar Big
+Clam AL Parallel For Cor
+Standard Copper Wire 25mm2
+AL-CU Clamp
+Dead End Cross Arm 15KV
+Clamp Earthing Rod
+LDPE Condut 16*1.5
+Under Ground Cable 3*120mm2 15
+Contactor 25A
+Cable Termination Out Door 3*1
+Ceiling Light Led 3000
+Distribtion board 40A/4PH(Ele
+Distribtion board 40A/1PH(Ele
+Earthing Rod 3-50 mm Diameter
+Flurecent(lump)-36w
+Fuse Element  2/25A 15Kv
+Dropout Fuse 100A 15KV
+Insulating Tape(Nastro)
+Insulator HT 15/5mm 15KV
+Insulator Chain 16mm Socket
+Indoor Terminations For 120mm2
+Insulating Tape PF 15mm
+Junction box Ø 65
+Junction box Ø 85
+Junction box 6*10
+Junction box 10*10
+Junction box 10*15
+Junction box 15*30
+Junction box 15*20
+Junction box Cover Ø 85
+Lamp - Incandset Ø30w
+Lamp Holder (Ampol Makefia)
+Lighting Arrester 15KVA Our Do
+Lamp Holder 60W
+Pendant light Led 80W
+Pendant light E27*4
+Pendant light G9*7
+PIN 18/5
+Pluginig Terminal 15KV
+Socket - Single 16A
+Switch-floating switch for el
+Socket-Industrial 5*16Plug
+Spot Light Led 7W
+Intermidate Swich
+Single Switch
+Spot Light Led 10W
+Strip Led double
+Switch One gang one way
+Switch two gang One way
+Switch one gang two way
+Switch three gang one way
+Switch door bell
+Switch 1 gang 1 way +1gang 2wa
+Switch 2gang 2 way +1gang 1wa
+Switch 1 gang 1 way+door bell
+Switch light dimmer
+Socket Universal
+Socket Double  Universal
+Swich -Change Over 100A
+Socket Eye 16mm bolt volpato 3
+TIE Strap 15KV
+Telephone Cable 10*2*0.5
+Transformer
+Compact Transformer 1250KVA
+Compact Transformer 500KVA
+Tape Plastic 75MM
+Wire 1.5
+Wall light Led 2*9W
+Wall light Metal 5W
+Washer 1/2''
+Washer 3/4"
+Chrome Get Valve 25mm
+GS Balvalve (Sanwa) Ø40
+GS Ball Roto #32 (Sanwa) 2''
+GS Clamp # 110
+GS Clamp with rubber & F#110
+GS Clamp with rubber ø 75
+GS Clamp with rubber ø 50
+GS Clamp With Rubber # 1"(32mm
+GS Clamp with Rubber # 25(3/4"
+GS Clamp Rub & Fish #40 1/1/4m
+GS Clamp  Rub &Fish# 63 mm/2"
+GS Clamp  Rub &Fish# 90 mm/3"
+GS Elbow DN #20 (3/4)
+Gs Get Valve 1"
+Gs Get Valve 1 - 3/4"
+Gs Get Valve 3"
+GS Gate Valve 3/4
+GS Nipples 1/2"
+GS Nipples 1"
+GS Nipples 2 1/2
+GS Nipples 3/4
+GS Pipe 3/4 125m
+GS Reducer 1-3/4''
+Gs Reducer 50*40
+GS Reducer DN 32mm*20mm
+GS Tape 1/2
+HDPE Adaptor Female Ø25
+HDP Clamp #110 1'
+HDPE Clamp #40 1'
+HDP Saddle clamp 32*3/4
+HDPE Saddl clamp # 63*1'
+HDPE Saddl clamp # 50*1'
+HDPE Elbow #25
+HDPE Elbow #32
+HDPE Pipe 25mm
+HDPE Pipe 32mm
+HDPE Pipe 40mm
+HDPE Pipe 50mm
+HDPE Pipe 110*16mm
+HDPE Pipe 63mm
+HDPE Pipe 75mm
+HDPE Tee Ø25
+PPR Adapter Male Ø32
+PPR Adapter Male Ø40
+PPR Adapter Male  Ø25
+PPR Adapter Female Ø32
+PPR Adapter Female  Ø25
+PPR Adapter Female  Ø40*1
+PPR Adapter Male  Ø25(3/4)
+PPR Adapter Male Ø90(3")
+PPR Male Nipples Dias 50-11/2'
+PPR F nipplesdia 63-2'
+PPR F nipples dia75-2 1/2
+PPR Bridge Ø32
+PPR Brige Ø25
+PPR Cap Ø25
+PPR Cap Ø32
+PPR Cap Ø40
+PPR Elbow Femal Ø32
+PPR Elbow Femal Ø50
+PPR Elbow MaleØ25
+PPR Elbow Normal Ø32
+PPR Elbow  normal Ø40
+PPR Elbow  normal Ø25
+PPR End Pluge Ø20(1/2)
+PPR Duble Female Elbow Ø25-1/2
+PPR Elbow #50
+PPR  Elbow #63
+PPR  Elbow #75
+PPR  Elbow #90
+PPR Get Valve 25mm
+PPR Get Valve 32mm
+PPR Get Valve 40mm
+PPR Pipe 25mm
+PPR Pipe 32mm
+PPR Pipe 40mm
+PPR Pipe 50mm
+PPR Pipe 63mm
+PPR Pipe 75mm
+PPR Pipe 90mm
+PPR Reducer 32 - 25
+PPR Reducer 40 - 32
+PPR Reducer 63- 40
+PPR Reducer 63- 50
+PPR Reducer 75- 50
+PPR Reducer 75- 63
+PPR Reducer 90- 40
+PPR Reducer 90- 50
+PPR Reducer 90- 63
+PPR Reducer 90- 75
+PPR Reducer 75- 40
+PPR Reducer 50- 32
+PPR Reducer 50- 40
+PPR Reducer 63- 32
+PPR Socket Ø25
+PPR Socket Ø32
+PPR Socket Ø40
+PPR Socket Ø50
+PPR Socket Ø63
+PPR Socket Ø75
+PPR Socket Ø90
+PPR Tee Ø25
+PPR Tee Ø32
+PPR Tee Ø40
+PPR Tee Ø50
+PPR Male Tee Ø25(3/4)
+PPR Female Tee Ø25(3/4)
+PPR Female Tee Ø25(1/2)
+PPR Union Ø25
+PPR Union Ø32
+PPR Union Ø40
+PPR Union Ø50
+PPR Male Union #32
+PPR Female Union Ø32
+PPR Female Union Ø32*1
+PPR  Union Ø75
+PPR  Union Ø90
+PPR  Union Ø63 /2" /
+PVC Elbow ø50 * 90
+PVC Elbow ø75 * 45
+PVC Elbow ø75 * 90
+PVC Elbow ø110 * 90
+PVC Floor Gelly 110mm
+PVC Glue 717
+PVC pipe ø50mm
+PVC pipe ø75mm
+PVC pipe ø110mm
+PVC Reducer 75-50mm
+PVC Reducer 110-50mm
+PVC Socket ø50mm
+PVC Socket ø75mm
+PVC Socket ø110mm
+PVC Socket ø160mm
+PVC Tee ø110mm
+PVC Y-Branch ø50mm
+PVC Y-Branch ø110mm
+PVC Y-Branch ø160mm
+PVC Y-Branch ø200mm
+UPVC Clean out #50
+U-PVC Clean out #110
+U-PVC Clean out #160
+U-PVC Clean out #75
+UPVC Elbow ø 50*45
+UPVC Elbow ø 50*90
+UPVC Elbow ø 75*45
+UPVC Elbow ø 110*45
+UPVC Elbow ø 110*90
+UPVC Elbow 160*45
+UPVC Elbow 160*90
+UPVC Elbow 200*45
+UPVC Floor Trap Multi #110*75*
+UpvcGasket(Rubber Seal #200mm)
+UpvcGasket(Rubber Seal #250mm)
+UpvcGasket(Rubber Seal #300mm)
+UpvcGasket(Rubber Seal #160mm)
+UPVC Pipe ø50mm
+UPVC Pipe ø75mm
+UPVC Pipe ø110mm
+UPVC Pipe ø160mm
+UPVC Pipe ø200mm
+UPVC Pipe ø300mm
+UPVC Pipe ø250mm
+UPVC Pipe ø160mm,NP6 Perforted
+UPVC Reducer 75-50mm
+UPVC Reducer 110-75mm
+UPVC Reducer 110-50mm
+UPVC Y-branch Reducer 110-75mm
+UPVC Socket # 50
+UPVC Socket # 75
+UPVC Socket # 110
+UPVC Straup # 110
+UPVC Tee ø75mm
+UPVC Tee ø110mm
+U-PVC P Trap (50)
+UPVC Y-Branch ø50mm
+UPVC Y-Branch ø75mm
+UPVC Y-Branch ø110mm
+UPVC-Double Y Branch Dia 110
+UPVC-Double Y Branch Dia 75
+Compression Male Adaptor #75
+Compression Male Adaptor #63
+Compression Male Adaptor #50
+Compression Male Adaptor #40
+Compression Male Adaptor #110
+Welding Flang Adaptor #110
+Welding Flang Adaptor #63
+Welding Flang Adaptor #50
+Comparession male adaptor #25
+Basin (Hand Wash) Q
+Bathroom  Cabinet
+Bath tub two side
+Basin (Hand Wash) W
+C-Clamp ø25
+Check Valve 1" (32M)
+Check Valve 2" 
+Welding End Cap #110
+Welding End Cap #75
+Welding End Cap #63
+Welding End Cap #50
+Compression End Cap#40
+Comparession Caupling #110
+Comparession Caupling #75
+Comparession Caupling #63
+Comparession Caupling #50
+Compression Coupling #40
+Welding Elbow #50*90
+Welding Elbow #63*90
+Welding Elbow #75*90
+Welding Elbow #110*90
+Welding Elbow #63*45
+Compression Elbow #40
+Bult Welding Elbow #110
+Bult Welding Elbow #75*45
+Bult Welding Elbow #50-45
+Floot Valve ø32 (1")
+Fisher - Metal  8mm
+Fisher Metal 10
+Floor drainer
+Fisher#12 Metal
+Fiber Glass water tanker2000L
+Foot Valve 2"63
+Flexable Hose ø 40
+Flanged Gete Valave DN 65mm PN
+Flanged Gete Valave DN 100
+Shower Mixer
+Pedestal Basin
+Welding Reducer #75*50
+Welding Reducer #75*63
+Welding Reducer #110*50
+Welding Reducer #110*75
+Welding Reducer Tee #110*50
+Welding Reducer  75*63
+Welding Reducer  Tee 75*50
+Compression Reduser Tee 63*50
+Compression Reduser Tee 50*40
+Compression Reduser Tee 50*32
+Compression Reduser Tee 63*40
+Stoper 
+Shower Glass 700+2100mm*1400m
+Shower Glass 900+2100mm*1800
+Shower Glass 1000+1200mm*700m
+Shower Glass 800*2100*1500
+Stone Bar
+Spray head
+Soap holder
+Shower Glass (1200+1200)2100
+Shower glass w fr (900+1200)*2
+Shawer Head
+Teflone tap
+Turkish
+Toilet 700*380*820mm
+Toilet 675*380*780
+Towel Shelf
+Towel Bar Single bar
+Tissure box
+Welding Tee #50
+Welding Tee #63
+Welding Tee #75
+Welding Tee #110
+Compression EQUAL Tee 32
+Compression EQUAL Tee 25
+Water Clost(WC)
+Water Mater 3/4" with record
+Aluminum profile
+Arm 201 EU Windo 10"
+Aluminum  RHS 1cm*2cm*6m
+Brush Sliding  Ø6mm
+Twer Bolt
+Almunium-Cup Profile
+Connector-T
+Connector Angle
+Connector Sliding
+Door lock horizontal with hand
+External Aluminum - CKET0012/
+Ferma Profile Almunium
+Ferma Over Profile Almunium-
+Finger latch Aluminum (Kricket
+Hinge for windows & doors
+Handle Sliding
+Window Handle
+Internal Aluminum -Profile
+L-Profile Aluminum - CKET0005
+Roller Sliding with kits
+Galss Rubber 3mm (PVC)
+Galss Rubber 5mm (PVC)
+Sliding Frame Profile
+Z-Profile Aluminum - CKET0003
+Zocholo Aluminum - CKET0008F
+Z-Rubber
+Ceramic floor tiles 600*600
+Ceramic(C36029)300*600
+Ceramic(C36629)300*600
+Ceramic Wall 30*60-G36255
+Ceramic Wall 30*60-G36253HA
+Ceramic Wall 30*30-GD336255
+Ceramic Wall 30*60-G36257
+Ceramic Wall 30*60-G36256HA
+Ceramic Wall 30*30-GD336257
+Ceramic Wall 20*120-122016
+Ceramic Wall 60*120-62QP401Y
+Ceramic Wall 80*80-8QP220
+Ceramic(CD30029)300*300
+Porcline tiles 30*60(210P0N51)
+Ceramic 100*800
+Acid Haydrolic
+Add Bond Chemichal
+Adhesive HP 60
+Bond-Mix
+Form Oil
+Muraplast(Chemicals)
+Sika Ceram 105
+Sikament NNG
+Sikaseal 105 (A+B)
+Angle-L
+Bolt-Thread
+Cement Board
+C-Channal(Main Channal)
+Corner List(Board)
+Clip-Wire
+Connector for Main Channel
+Expansion Screws With Nut & Fi
+Fisher #6mm Plug
+Fiber Glass Joint Tape
+Fisher PVC 8*60
+Furring Channel (Omaga)
+Fisher ø 10
+Gypsum Board - Standard
+Gypsum Board - Water proof
+Hanger for Main Channel
+Screw 5*60(Golden)
+Screw 6*100
+Screw 6*60
+Self Screw  4.8*1.9
+Normal Srew 4.8*60mm
+Self Screw 50 mm (galvanized)
+Cotton lMM for Floor
+Laminated Wooden Floor
+Porcline tiles 30*60(H360409)
+Porcline tiles 30*60(H3605)
+Granite Rizer116*12.5cm
+Granite Rizer 127*13.5cm
+Grinite Riser 1.10*0.14
+Granite Riser 106*0.14 1
+Granite Riser 140*0.13
+Granite Riser 130*0.14
+Skerting granite 60*10
+Skerting granite 40*10
+Granite Tread 1.16*0.32Ccm
+Granite Tread 1.27*0.32Ccm
+Granite Tread 1.30*0.32Ccm
+Granite Tread 1.37*0.32Ccm
+Granite Tread 1.38*0.32Ccm
+Granite Tread 1.40*0.32Ccm
+Granite Tread 0.60*0.30cm
+Granite Tread  40*40
+Granite Tread  110*0.32
+Granite Tread 253*0.32
+Marble Granite 106*0.32
+Marble Granite 06*06 (Granite
+Marble Tread 2*0.32
+Marble Tread 0.6*0.32
+Glass(Guardian HD Grey)
+Flat Clear Glass 6mm EN 2140
+HDF Door(900*2100*200)
+HDF Door(900*2100*250)
+HDF Door(800*2100*200)
+HDF Door(1000*2100*200)
+HDF Door(1200*2300*200)
+Door pink 18''(10'')
+Door pink 10''(06'')
+Red Cherry Wood Door
+ZinkAl Anti-Theft2300*1000*250
+ZinkAl Anti-Theft2200*1050*200
+ZinkAl Anti-Theft2200*1000*200
+HDF Door(2100X800X240)
+Fom filter
+Lock Hinch Door Stoper
+Marble Copping 1.45x23x3cm
+Marble Copping0.45x23x3cm
+Window rizer 2.07*0.15*2
+Window rizer 0.67*16*2
+Window rizer 0.80*16*2
+Window rizer 1.27*15*2
+Marble Window Sill 0.85x27x3cm
+Marble Window Sill 0.86x27x3cm
+Marble Window Sill 0.86x28x3cm
+Marble Window Sill 0.95x27x3cm
+Marble Window Sill 0.95x28x3cm
+Marble Window Sill 1.06x27x3cm
+Marble Window Sill 1.25x27x3cm
+Marble Window Sill 1.25x30x3cm
+Marble Window Sill 1.49x27x3cm
+Marble Window Sill 1.37x28x3cm
+Marble Window Sill 1.56x27x3cm
+Marble Window Sill 1.00x27x3cm
+Marble Window Sill 0.80x27x3cm
+Marble For Sample For free
+Window Sill 1.60*0.23
+Window Sill 1.10*0.23
+Window Sill 1.27*0.28
+Window Sill 1.03*0.28
+Marble Window Sill 1.05x0.29
+Marble Window Sill 1.35x0.29
+Marble Window Sill 1.55*0.28
+Marble Window Sill 1.00*0.29
+Marble Window Sill 0.55*0.31
+Marble 1.05*0.30
+Marble 1.03*0.23
+Wooden SkertingY9251B
+Wooden Skerting Y918B
+Window Sill Trazo 0.75*30*3
+Window Sill Trazo 0.86*30*3
+Window Sill Trazo 0.95*30*3
+Window Sill Trazo 1.10*30*3
+Window Sill Trazo 1.20*30*3
+Window Sill Trazo 1.40*30*3
+Window Sill Trazo 1.50*30*3
+Window Sill Trazo 1.58*30*3
+Window Sill Trazo 1.72*30*3
+Terazo Windiw Sill 70*30
+Terazo Windiw Sill 93*30
+Terazo Windiw Sill 182*30
+Terazo Windiw Sill 80*30
+Terazo Window Sile 182*28
+Terazo Windiw Sill 0.55*28
+Terazo Windiw Sill 0.45*28
+Terazo Windiw Sill 0.70*28
+Terazo Windiw Sill 0.95*28
+Terazo Windiw Sill 110*28
+Terazo Windiw Sill 146*30
+Terazo Windiw Sill 100*30
+Terazo Windiw Sill 105*30
+Terazo Windiw Sill 170*28
+Terazo Windiw Sill 125*30
+Terazo Windiw Sill 76*28
+Terazo Windiw Sill 120*28
+Terazo Windiw Sill 90*0.25
+Terazo Windiw Sill 178*30
+Terazo Windiw Sill 052*30
+Terazo Windiw Sill 160*30
+Terazo Windiw Sill 115*28
+Terazo Windiw Sill 181*28
+Terazo Windiw Sill 127*28
+Terazo Windiw Sill 143*0.25
+Terazo Windiw Sill 183*28
+Terazo Windiw Sill 145*0.25
+Terazo Windiw Sill 178*28
+Terazo Windiw Sill 120*30
+Terazo Windiw Sill 128*30
+Terazo Windiw Sill 187*28
+Terazo Windiw Sill 179*28
+Terazo Windiw Sill 145*28
+Terazo Windiw Sill 184*0.28
+Terazo Windiw Sill 130*30
+Terazo Windiw Sill 150*0.25
+Gypsum 25kg
+Gypsum for Prime Coat
+Mesh Fiber Glass
+Painting(7249)
+Painting (Alkalin) white
+Painting (Broken white)
+Painting(7236)
+Wall Putty SGP-500
+Paint Super White
+Diesel
+Fluid Break Dot 4
+Grease - EP2
+Grease - EP3
+Grease 5kg
+Oil - Gear 80W90
+Oil - Hydrolic SAE 46 (Rando)
+Oil - Hydrolic SAE10W
+Oil - Motor  15W/40
+Oil - Transmission  SAE 140
+Oil - Transmission  SAE 50
+Oil - Oils 20/50
+Hydrolic or Rando 68
+Hydrolic Oil 10W*30
+Oil - Mobil Delvac(Adbiue)
+Gear oil -320
+Abujedi
+Broom
+Blanket
+Battrey Cimos
+Mop
+Paid
+Rouch killer
+Chalk
+Envelope A3
+Envelope A4
+Fastener
+Fluid - Liquid
+High lighter
+Key Board
+Marker - White board
+Mouse
+Note Book - Small
+Paper A3
+Paper A4
+Pen
+Puncher - Small
+Push bin
+Staples - Medium
+Tonner 26A
+TP-Link PCI Adapter
+TP-Link Access Point
+Air Cleaner
+Air Filter
+Amorzater (shokabsorber)
+Air Selecter
+Automatic greatse component
+Bearing
+Belt ST6m
+Break Shoe
+Bolt with nut
+Busing
+Battery 12V.45AH
+Bering Inner
+Battry 12V200A
+Bulb 24 V70W
+Bulb 20 V 10W
+Break Pad
+Breaket Assy
+Belt-V
+Braek Valve
+Bulb 24 H4
+Bulb 24 H3
+Bulb 24V10W
+Bulb 24V21W
+Bulb 24V.H1
+Belt-V(alternater)
+Bolt with nut Rubber
+Bolt - U front of 10 & 12 plat
+Ball Joint
+Bolt Center
+Bearing Release
+Bolt 21
+Coolant
+Connector Air #6
+Connector Air #8
+Connector Air #12
+Conector ø 6
+Drive Cable
+Diff Seal
+Door Lock (Sponda Lock)
+Door Look(Chain)
+Door Lock Assy
+Fuel Cable
+Fuel Filter
+Fuel Separator(water separetor
+Fuel Hose
+Flap
+Fruit Axeler Seal
+Fuel Tank Cap
+Frena Motor Pesten
+Grease Nipples
+Gap Seal(Boom Seal)
+Hand Brake Valve
+Hub reduction seal
+Hand Pump
+Head Front  Light  R8 L
+Iner Tube
+Nut Big
+Pnuematic Nipples 8mm
+Pnuematic Nipples 10mm
+Oil Filter
+Pin-Amorzator
+Pully,Ruber & Bolt
+Rivet CO-1
+Rear Combination Lamp Right
+Return Spring
+Rod Ball Point
+Ring Whrench
+Shaft Axle Lock
+Stablizer Fron Bushing
+Stablizer Rear Bushing
+Tyre with iner tube front
+Top Push Rad
+Torque Bolt
+Thrust Bolt with Nut
+Wiper Bushing
+Wheel Bolt
+Wipper 18 Blade
+Washer DL07(Metal)
+Water Pump
+Front Weel Bolt LPING
+Gulucose(R/L 1000M/L)
+Plasterer first aid
+Savlon
+Caution Tape (Warning Tape)
+Glove - Plastic
+Ggogle Welding
+Helemet
+Mask - Dust
+Plastic boot
+Reflecting Vest
+Rain Cot
+Safety Belt
+Tuta(overall)
+Blade-Hack saw
+Brush Wire
+Gancho
+Hammer 1.5kg
+Measuring Tape 7.5mt
+Maker-Gasket
+Meqas
+Pick axe (Doma)
+Plumb Boob (Tumbi)
+Polish Disk
+Reflacter Triangle
+Roller Measuring Tape 50mt
+RHS 40*20*2
+Squadra
+Shimiyas(Lebagoma)
+Tie road
+Tripod
+Clamp Ø24
+Clamp Ø32
+Grease Gun Hose
+Gage(Tyer Gage)
+Hose 1/2"
+Water Tool # 18(Giratubo)
+Water Tool # 24(Giratubo)
+Water Tool # 36(Giratubo)
+Pipe Cutter
+Shakil  6ton
+Shakil  20ton

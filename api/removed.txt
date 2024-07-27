@@ -1,0 +1,163 @@
+Diesel - FL-F-D001
+Fluid Break Dot 4 - FL-L-F001
+Grease - EP2 - FL-L-G001
+Grease - EP3 - FL-L-G002
+Grease 5kg - FL-L-G003
+Oil - Gear 80W90 - FL-L-O001
+Oil - Hydrolic SAE 46 (Rando) - FL-L-O002
+Oil - Hydrolic SAE10W - FL-L-O003
+Oil - Motor  15W/40 - FL-L-O004
+Oil - Transmission  SAE 140 - FL-L-O005
+Oil - Transmission  SAE 50 - FL-L-O006
+Oil - Oils 20/50 - FL-L-O008
+Hydrolic or Rando 68 - FL-L-O009
+Hydrolic Oil 10W*30 - FL-L-O011
+Oil - Mobil Delvac(Adbiue) - FL-L-O012
+Gear oil -320 - FL-L-O013
+Abujedi - SO-O-A002
+Broom - SO-O-B005
+Blanket - SO-O-B009
+Battrey Cimos - SO-O-B011
+Mop - SO-O-M001
+Paid - SO-O-P006
+Rouch killer - SO-O-R001
+Chalk - SO-S-C006
+Envelope A3 - SO-S-E002
+Envelope A4 - SO-S-E003
+Fastener - SO-S-F001
+Fluid - Liquid - SO-S-F008
+High lighter - SO-S-H003
+Key Board - SO-S-K001
+Marker - White board - SO-S-M003
+Mouse - SO-S-M005
+Note Book - Small - SO-S-N001
+Paper A3 - SO-S-P001
+Paper A4 - SO-S-P002
+Pen - SO-S-P007
+Puncher - Small - SO-S-P015
+Push bin - SO-S-P020
+Staples - Medium - SO-S-S020
+Tonner 26A - SO-S-T002
+TP-Link PCI Adapter - SO-S-T007
+TP-Link Access Point - SO-S-T008
+Air Cleaner - SP-A001
+Air Filter - SP-A002
+Amorzater (shokabsorber) - SP-A005
+Air Selecter - SP-A013
+Automatic greatse component - SP-A017
+Bearing - SP-B003
+Belt ST6m - SP-B004
+Break Shoe - SP-B007
+Bolt with nut - SP-B014
+Busing - SP-B016
+Battery 12V.45AH - SP-B024
+Bering Inner - SP-B027
+Battry 12V200A - SP-B029
+Bulb 24 V70W - SP-B030
+Bulb 20 V 10W - SP-B032
+Break Pad - SP-B036
+Breaket Assy - SP-B038
+Belt-V - SP-B040
+Braek Valve - SP-B042
+Bulb 24 H4 - SP-B044
+Bulb 24 H3 - SP-B045
+Bulb 24V10W - SP-B046
+Bulb 24V21W - SP-B047
+Bulb 24V.H1 - SP-B048
+Belt-V(alternater) - SP-B049
+Bolt with nut Rubber - SP-B052
+Bolt - U front of 10 & 12 plat - SP-B053
+Ball Joint - SP-B063
+Bolt Center - SP-B065
+Bearing Release - SP-B069
+Bolt 21 - SP-B071
+Coolant - SP-C003
+Connector Air #6 - SP-C006
+Connector Air #8 - SP-C007
+Connector Air #12 - SP-C008
+Conector ø 6 - SP-C015
+Drive Cable - SP-C018
+Diff Seal - SP-D005
+Door Lock (Sponda Lock) - SP-D006
+Door Look(Chain) - SP-D007
+Door Lock Assy - SP-D009
+Fuel Cable - SP-F001
+Fuel Filter - SP-F002
+Fuel Separator(water separetor - SP-F006
+Fuel Hose - SP-F007
+Flap - SP-F009
+Fruit Axeler Seal - SP-F012
+Fuel Tank Cap - SP-F014
+Frena Motor Pesten - SP-F016
+Grease Nipples - SP-G002
+Gap Seal(Boom Seal) - SP-G003
+Hand Brake Valve - SP-H003
+Hub reduction seal - SP-H004
+Hand Pump - SP-H007
+Head Front  Light  R8 L - SP-H008
+Iner Tube - SP-I001
+Nut Big - SP-N001
+Pnuematic Nipples 8mm - SP-N003
+Pnuematic Nipples 10mm - SP-N004
+Oil Filter - SP-O001
+Pin-Amorzator - SP-P003
+Pully,Ruber & Bolt - SP-P011
+Rivet CO-1 - SP-R004
+Rear Combination Lamp Right - SP-R005
+Return Spring - SP-R009
+Rod Ball Point - SP-R017
+Ring Whrench - SP-R018
+Shaft Axle Lock - SP-S008
+Stablizer Fron Bushing - SP-S024
+Stablizer Rear Bushing - SP-S025
+Tyre with iner tube front - SP-T002
+Top Push Rad - SP-T013
+Torque Bolt - SP-T014
+Thrust Bolt with Nut - SP-T015
+Wiper Bushing - SP-W001
+Wheel Bolt - SP-W003
+Wipper 18 Blade - SP-W006
+Washer DL07(Metal) - SP-W007
+Water Pump - SP-W009
+Front Weel Bolt LPING - SP-W010
+Gulucose(R/L 1000M/L) - SR-C-G004
+Plasterer first aid - SR-C-P001
+Savlon - SR-C-S003
+Caution Tape (Warning Tape) - SR-S-C001
+Glove - Plastic - SR-S-G003
+Ggogle Welding - SR-S-G004
+Helemet - SR-S-H001
+Mask - Dust - SR-S-M001
+Plastic boot - SR-S-P001
+Reflecting Vest - SR-S-R001
+Rain Cot - SR-S-R002
+Safety Belt - SR-S-S002
+Tuta(overall) - SR-S-T002
+Blade-Hack saw - TO-C-B005
+Brush Wire - TO-C-B011
+Gancho - TO-C-G007
+Hammer 1.5kg - TO-C-H004
+Measuring Tape 7.5mt - TO-C-M005
+Maker-Gasket - TO-C-M007
+Meqas - TO-C-M009
+Pick axe (Doma) - TO-C-P013
+Plumb Boob (Tumbi) - TO-C-P014
+Polish Disk - TO-C-P020
+Reflacter Triangle - TO-C-R001
+Roller Measuring Tape 50mt - TO-C-R018
+RHS 40*20*2 - TO-C-R022
+Squadra - TO-C-S002
+Shimiyas(Lebagoma) - TO-C-S007
+Tie road - TO-C-T003
+Tripod - TO-C-T004
+Clamp Ø24 - TO-W-C006
+Clamp Ø32 - TO-W-C007
+Grease Gun Hose - TO-W-G002
+Gage(Tyer Gage) - TO-W-G006
+Hose 1/2" - TO-W-H004
+Water Tool # 18(Giratubo) - TO-W-P005
+Water Tool # 24(Giratubo) - TO-W-P006
+Water Tool # 36(Giratubo) - TO-W-P008
+Pipe Cutter - TO-W-P012
+Shakil  6ton - TO-W-S001
+Shakil  20ton - TO-W-S003
